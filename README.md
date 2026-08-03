@@ -22,7 +22,9 @@ The design aims to feel less like a default Flutter template and more like a cur
 
 View the deployed site here:
 
-- https://aritradev.github.io/Portfolio-Flutter/
+- https://aritradev.github.io/Portfolio-Flutter/ 
+
+## Project Report : https://docs.google.com/document/d/1LosEga1zFp-DVImbAt6ltiRLyOpotfRtEJC097BCg2g/edit?tab=t.0
 
 ## Repository
 
