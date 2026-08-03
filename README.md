@@ -24,7 +24,8 @@ View the deployed site here:
 
 - https://aritradev.github.io/Portfolio-Flutter/ 
 
-## Project Report : https://docs.google.com/document/d/1LosEga1zFp-DVImbAt6ltiRLyOpotfRtEJC097BCg2g/edit?tab=t.0
+## Project Report : 
+- https://docs.google.com/document/d/1LosEga1zFp-DVImbAt6ltiRLyOpotfRtEJC097BCg2g/edit?tab=t.0
 
 ## Repository
 
